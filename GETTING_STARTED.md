@@ -207,7 +207,7 @@ The `dist/` folder can be deployed to:
 - JSX: React 19
 - Strict type checking
 
-### `tailwind.config.js`
+### `tailwind.config.ts`
 - Custom color palette
 - Extended animations
 - Responsive utilities
