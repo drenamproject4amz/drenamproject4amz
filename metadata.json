@@ -1,0 +1,6 @@
+{
+  "name": "Wellness Kitchen Kiosk",
+  "description": "Bilingual digital menu kiosk and card-maker for hospital wellness kitchens with Google Drive image integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
